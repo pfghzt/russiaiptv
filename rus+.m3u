@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV RUS+" Erster Kanal
+#EXTINF:-1"TV RUS+" Erster Kanal
 https://hls.tvrus.t62a.com/1777810357/5DxvBkdJT86sbgHY1uT2kw/bemtv/stream336/stream0.m3u
-#EXTINF:-1 tvg-id="TV RUS" tvg-logo="https://bem-media.de/wp-content/uploads/06_TVrus.png, Zweiter Kanal
-https://hls.tvrus.t62a.com/1777810357/_7LWCph7zooDbuqSlR628g/bemtv/stream409/stream0.m3u
+
