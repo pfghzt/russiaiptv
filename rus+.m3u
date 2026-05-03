@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV RUS+" tvg-logo="https://pro-tv.biz/upload/iblock/c24/tvrusplus_splash.png, Livestream
+#EXTINF:-1 tvg-id="TV RUS+" tvg-logo="http://pro-tv.biz/upload/iblock/c24/tvrusplus_splash.png, Livestream
 https://hls.tvrus.t62a.com/1777810357/5DxvBkdJT86sbgHY1uT2kw/bemtv/stream336/stream0.m3u8
